@@ -2,7 +2,8 @@
 
 1.  dio -> Untuk menghandle Data dari Backend
 2.  getX -> State Management yang akan dipakai
-3.  video_player -> Untuk menjalankan video
+3.  video_player -> Untuk menjalankan video [ Changed ]
+4.  FontAwesome -> Untuk Icon
 
 # Flutter Version 2.0.5 [Pastikan update dlu ya]
 ## Bisa dijalankan di Web Browser
